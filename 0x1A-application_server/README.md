@@ -1,2 +1,1 @@
-#0x1A-application_server
-configure an Nginx server and Gunicorn application server
+Task to configure and setup Nginx and Gunicorn to server python dynamic content
